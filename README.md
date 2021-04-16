@@ -20,10 +20,10 @@ In this section, please provide a brief overview of the design of your applicati
 ##### Functionalities
 For each of the following functionalities, please tick the box if you implemented it and describe its input and output in your application:
 
-[x] Brew coffee
-[ ] Create programme
-[ ] Delete programme
-[ ] Book a programme
+[x] Brew coffee \
+[ ] Create programme \
+[ ] Delete programme \
+[ ] Book a programme \
 
 ##### Business rules
 Please highlight all the validations and mechanisms you identified as necessary in order to avoid inconsistent states and apply the business logic in your application.
